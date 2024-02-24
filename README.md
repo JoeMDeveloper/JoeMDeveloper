@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate Android app developer with 2 years of experience in creating intuitive and user-friendly mobile applications. Additionally, I have a strong affinity for IT Technical Support and Networking, where I enjoy troubleshooting and ensuring seamless connectivity in digital environments.
+I'm a passionate Android app developer with 2 years of experience in creating intuitive and user-friendly mobile applications. Additionally, I have a strong affinity for IT Technical Support, Networking and Artificial Intelligence, where I enjoy troubleshooting and ensuring seamless connectivity in digital environments.
 
 
 - 🌱 I’m currently exploring new technologies and frameworks in the Android ecosystem as well as broadening my knowledge in IT Technical Support and Networking.
