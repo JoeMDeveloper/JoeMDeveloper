@@ -24,7 +24,7 @@ I'm a passionate Android app developer with 2 years of experience in creating in
 
 Here are a few notable projects I've worked on:
 
-Some of my projects are available on the Google Playstore: the link to the account is: 
+Some of my projects are available on the Google Playstore: the links to the accounts are: 
 -[PlayStore Link](https://play.google.com/store/apps/dev?id=8376773460673129505&hl=en&gl=US)
 -[PlayStore Link](https://play.google.com/store/apps/dev?id=8470034532071253070&hl=en&gl=US)
 
