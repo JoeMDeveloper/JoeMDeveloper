@@ -12,7 +12,7 @@ I'm a passionate Android app developer with 2 years of experience in creating in
 
 ## Skills
 
-- **Languages:** Java, XML, HTML & CSS
+- **Languages:** Java, XML, HTML & CSS, SQL
 - **Android Development:** Android SDK, Android Studio, Google Firebase
 - **UI/UX:** Material Design, Custom Views, Responsive Design
 - **Architectural Patterns:** MVVM, Clean Architecture
